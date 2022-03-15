@@ -19,4 +19,6 @@ $\frac{1}{n} \sum_{i=1}^{n} x_{i}$
 
 abc [^1]
 
+[^1]: asdfadf
+
 
